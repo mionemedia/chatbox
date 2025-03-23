@@ -1,0 +1,6 @@
+{
+    "api_endpoint": "http://localhost:11434/api",
+    "api_key": "",
+    "model_name": "llama3",
+    "use_local_model": true
+}
